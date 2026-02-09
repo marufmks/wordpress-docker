@@ -1,0 +1,6 @@
+wp-content/uploads/
+wp-content/plugins/*
+wp-content/themes/*
+wp-content/upgrade/*
+wp-content/cache/*
+wp-content/backup-*/**/*
